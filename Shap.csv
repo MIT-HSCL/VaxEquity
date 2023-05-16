@@ -1,0 +1,50 @@
+,feature,importance
+1,% Total Population: American Indian and Alaska Native Alone,0.06283693
+18,% Total: No Health Insurance Coverage,0.05933902
+23,EP_LIMENG,0.03562964
+48,% Total: with Health Insurance Coverage: Private Health Insurance,0.035045814
+16,% Workers 16 Years and Over: Walked,0.031788256
+0,% Total Population: Male,0.030122349
+47,% Total Population: Black or African American Alone,0.029381074
+24,EP_MUNIT,0.02596954
+44,Density_Medical_Facilities_Area,0.025616331
+20,EP_AGE65,0.024174321
+14,% Workers 16 Years and Over: Motorcycle,0.022879252
+11,"% Workers 16 Years and Over: Car, Truck, or Van",0.021316316
+41,Average Commute to Work (In Min),0.020976145
+21,EP_AGE17,0.020635631
+27,EP_NOVEH,0.020397149
+26,EP_CROWD,0.020293618
+25,EP_MOBILE,0.020094393
+2,% Total Population: Asian Alone,0.020047776
+3,% Total Population: Two or More Races,0.019758254
+4,% Population 16 Years and Over: in Labor Force,0.018995162
+8,"% Households: $50,000 to $74,999",0.018914988
+12,% Workers 16 Years and Over: Carpooled,0.018653752
+7,"% Households: $25,000 to $49,999",0.017641835
+28,EP_GROUPQ,0.017511342
+13,% Workers 16 Years and Over: Public Transportation (Includes Taxicab),0.017424518
+38,%DAYPOP,0.016702319
+22,EP_SNGPNT,0.016455734
+9,"% Households: $75,000 to $99,999",0.014157297
+6,% Population 16 Years and Over: in Labor Force: Civilian: Unemployed,0.013848433
+10,Gini Index,0.013200002
+5,% Population 16 Years and Over: in Labor Force: in Armed Forces,0.012435421
+19,EP_HBURD,0.012311281
+40,%Total Adult Population,0.011949203
+46,%Population with Disability,0.0111609595
+15,% Workers 16 Years and Over: Bicycle,0.01012295
+42,Density_Medical_Facilities_Population,0.009772558
+39,EP_OTHERRACE,0.009295969
+17,% Workers 16 Years and Over: Other Means,0.0076740915
+43,Density_Transportation_Stops_Area,0.0055240365
+45,Stops_per_Facility,0.0030116339
+37,F_THEME4,0.0023648245
+35,F_THEME2,0.0006208527
+32,F_NOHSDP,0.00059329823
+30,F_UNEMP,0.00037339734
+29,F_POV150,0.0002458598
+36,F_NOVEH,0.0
+34,F_SNGPNT,0.0
+33,F_AGE17,0.0
+31,F_HBURD,0.0

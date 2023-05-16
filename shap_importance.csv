@@ -1,0 +1,50 @@
+;index;feature;importance
+0;1;% American Indian and Alaska Native Alone;0.06283693
+1;18;% w/o health insurance;0.05933902
+2;23;% Persons who speak English 'less than well';0.03562964
+3;48;% with private health insurance;0.035045814
+4;16;% commute walking;0.031788256
+5;0;% Male;0.030122349
+6;47;% Black or African American Alone;0.029381074
+7;24;% Housing in structures with 10 or more units;0.02596954
+8;44;Density Medical Facilities per Area;0.025616331
+9;20;% Persons aged 65 and older;0.024174321
+10;14;% commute w/ motorcycle;0.022879252
+11;11;% commute w/ car, truck, or van;0.021316316
+12;41;average commute (in min);0.020976145
+13;21;% Persons aged 17 and younger;0.020635631
+14;27;% Households with no vehicle available;0.020397149
+15;26;% more people than rooms;0.020293618
+16;25;% Mobile homes estimate;0.020094393
+17;2;% Asian;0.020047776
+18;3;% Two or more races;0.019758254
+19;4;% in Labor Force;0.018995162
+20;8;% household income between 50 to 75 (k USD);0.018914988
+21;12;% commute w/ carpooling;0.018653752
+22;7;% household income between 25 to 50 (k USD);0.017641835
+23;28;% Persons in group quarters;0.017511342
+24;13;% commute w/ public transport;0.017424518
+25;38;% daytime population;0.016702319
+26;22;% Single-parent households;0.016455734
+27;9;% household income between 75 to 100 (k USD);0.014157297
+28;6;% unemployed;0.013848433
+29;10;Gini Index;0.013200002
+30;5;% in armed forces;0.012435421
+31;19;% of Housing cost-burdened occupied housing units;0.012311281
+32;40;% adult population;0.011949203
+33;46;% disabled;0.0111609595
+34;15;% commute w/ bicycle;0.01012295
+35;42;Density Medical Facilities per Population;0.009772558
+36;39;% Some other race, not Hispanic or Latino persons;0.009295969
+37;17;% commute other means;0.0076740915
+38;43;Density Transportation Stops per Area;0.0055240365
+39;45;Stops per Facility;0.0030116339
+40;37;Flag - Theme Housing Type/ Transportation;0.0023648245
+41;35;Flag - Theme Household Characteristics;0.0006208527
+42;32;Flag - persons with no high school diploma;0.00059329823
+43;30;Unemployment Rate;0.00037339734
+44;29;% of persons below 150% poverty;0.0002458598
+45;36;Flag -  Households with no vehicle available;0.0
+46;34;Flag - Single-parent households;0.0
+47;33;Flag - Persons aged 17 and younger;0.0
+48;31;Flag - Housing cost-burdened occupied housing units;0.0
