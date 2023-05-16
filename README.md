@@ -2,7 +2,7 @@
 ## Incorporating Equity into Vaccine Access
 ---
 ### Missing Large Files
-There are several files that are too large [50 MB] for GitHub. We have curated these files in a [Dropbox Folder](https://www.dropbox.com/sh/o7k22a0uzot50l0/AAAH96UEuuAC6BFMve8Me4rpa?dl=0).
+There are several files that are too large [+50 MB] for GitHub. We have curated these files in a [Dropbox Folder](https://www.dropbox.com/sh/o7k22a0uzot50l0/AAAH96UEuuAC6BFMve8Me4rpa?dl=0).
 
 The Dropbox folder contains the following files:
 - `Counties_Medical_Facilities.zip` - Country level shapefiles for medical facilities
